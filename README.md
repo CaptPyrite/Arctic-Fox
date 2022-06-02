@@ -12,9 +12,9 @@ printf("hello world!")
 ```
 
 # Running code
-There is no official IDE for Arctic-Fox, So the code must be ran from CMD. To run the file you coded, you must keep the file where the directory for `arctic_fox.exe` then run command prompt in the same folder, and in commnad promt insert: 
+There is no official IDE for Arctic-Fox, So the code must be ran from CMD. To run the file you coded, you must keep the file where the directory for `arctic.exe` then run command prompt in the same folder, and in commnad promt insert: 
 
-`arctic_fox.exe --[FILE NAME]`
+`arctic.exe --[FILE NAME]`
 
 and in place of `FILE NAME`, replace it with the name of your file containg the code!
 
