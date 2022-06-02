@@ -1,6 +1,7 @@
 # Arctic-Fox
 
-<img src="https://user-images.githubusercontent.com/79488582/171751709-403777de-7695-4755-93ef-42033dc5a185.png"/><img src="https://user-images.githubusercontent.com/79488582/171751410-fe7ff53f-da6e-4bf0-944e-be8333a93fc6.png"/>
+![Icon](https://user-images.githubusercontent.com/79488582/171752903-0a4233b9-9e6f-4215-98bd-d94a9f2018bc.png)
+
 
 A high level programing language created on Python. That has a really simple syntax somewhere in between C# and Python.
 
