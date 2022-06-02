@@ -1,4 +1,4 @@
-# Arctic-Fox-programing-language
+# Arctic-Fox
 ![Lan_icon(1)](https://user-images.githubusercontent.com/79488582/171532104-21d2d99a-9766-486b-ac44-29f147d2e503.png)
 
 A high level programing language created on Python. That has a really simple syntax somewhere in between C# and Python.
