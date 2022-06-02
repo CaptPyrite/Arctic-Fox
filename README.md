@@ -23,4 +23,4 @@ and in place of `FILE NAME`, replace it with the name of your file containg the 
 
 | Version        | Addition to language | Code name  | date  |
 | ------------- |:-------------:| -----:| -----:|
-| 0.0.0      | The first version of Artic-FOX | lucky leopard |  1/19/2022|
+| 0.0.0      | The first version of Artic-FOX | lucky leopard |  6/1/2022|
