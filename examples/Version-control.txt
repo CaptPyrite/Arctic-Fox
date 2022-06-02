@@ -1,0 +1,8 @@
+Last updated:
+[Arrays.fox] = 6/2/2022
+[Conversion-Functions.fox] = 6/2/2022
+[Hello_world.fox] = 6/2/2022
+[If,Else,Else-if.fox] = 6/2/2022
+[If-statments.fox] = 6/2/2022
+[Loops.fox]= 6/2/2022
+[Math.fox]= 6/2/2022
