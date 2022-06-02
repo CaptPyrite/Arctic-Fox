@@ -1,0 +1,4 @@
+//looping 10 times
+for(0,10){
+  printf("Looping this 10 times!")
+}

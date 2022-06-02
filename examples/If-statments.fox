@@ -1,0 +1,19 @@
+x = "Hello"
+y = "Hello"
+
+//if x,y is the same
+if(x==y){
+  printf("X and Y are the same values")
+}
+
+//if x,y isn't the same
+if(x*=y){
+  printf("X and Y are not the same values")
+}
+
+//if x is in y, ex. "hello" is inside "hello, world"
+if(x^=y){
+  printf("value of X is inside value of Y")
+}
+
+

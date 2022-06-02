@@ -1,0 +1,21 @@
+y = 20
+x = 10
+
+//Adding
+sum = y+x
+
+//Subtracting
+sub = y-x
+
+//Multiplying
+multi = y*x
+
+//Division
+div = y/x
+
+
+printf(sum)
+printf(sub)
+printf(multi)
+printf(div)
+

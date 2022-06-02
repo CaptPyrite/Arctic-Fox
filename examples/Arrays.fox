@@ -1,0 +1,22 @@
+//creating an array
+arr = array.new[10,20,30,40]
+
+//printing all the item's in the array
+
+printf("Original Array:")
+
+printf(arr)
+
+//adding item to array
+printf("Adding `50` to our Array:")
+
+arr.add_item["50"]
+
+printf(arr)
+
+//removing the item `30` from our array
+printf("Removing `30` from our Array:")
+
+arr.remove_item[30]
+
+printf(arr)

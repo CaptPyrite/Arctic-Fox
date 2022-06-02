@@ -1,0 +1,18 @@
+a = 20
+b = 20
+c = 20
+
+//if a,b is the same
+if(a==b){
+  printf("A and B are the same")
+}
+
+//else if; a,c is the same
+else if(a==c){
+  printf("A and C are the same")
+}
+
+//else; if a is not C or B 
+else{
+  printf("A is not C or B")
+}
