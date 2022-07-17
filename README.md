@@ -22,6 +22,6 @@ and in place of `FILE NAME`, replace it with the name of your file containg the 
 # Update logs
 
 
-| Version        | Addition to language | Code name  | date  |
-| ------------- |:-------------:| -----:| -----:|
-| 0.0.0      | The first version of Artic-FOX | lucky leopard |  6/1/2022|
+| Version        | Addition to language | date  |
+| ------------- |:-------------:| -----:|
+| 0.0.0      | The first version of Artic-FOX |  6/1/2022|
